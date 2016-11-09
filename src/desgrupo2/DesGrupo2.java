@@ -19,5 +19,6 @@ public class DesGrupo2 {
       char c;
       c=1;
         JOptionPane.showMessageDialog(null,"Prueba");
+        //hola
     }
 }
