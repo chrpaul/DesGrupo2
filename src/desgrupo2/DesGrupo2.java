@@ -4,6 +4,8 @@
  */
 package desgrupo2;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author THAMBATO1
@@ -16,5 +18,6 @@ public class DesGrupo2 {
     public static void main(String[] args) {
       char c;
       c=1;
+        JOptionPane.showMessageDialog(null,"Prueba");
     }
 }
