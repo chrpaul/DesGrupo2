@@ -19,6 +19,7 @@ public class DesGrupo2 {
       char c;
       c=1;
         JOptionPane.showMessageDialog(null,"Prueba");
+        System.out.println("holabb");
         //hola
     }
 }
