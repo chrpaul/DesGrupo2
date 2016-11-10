@@ -17,4 +17,5 @@ public class prueba2 {
     //marcos altamirano
     //eddy lopez
     //andres aldas
+    //Christian Quispe
 }
