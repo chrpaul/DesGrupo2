@@ -15,5 +15,6 @@ public class prueba2 {
     Gavilanez Ricardo"
     //yessecarrillo
     //marcos altamirano
+    //eddy lopez
     
 }
