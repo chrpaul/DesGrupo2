@@ -11,8 +11,8 @@ package desgrupo2;
  */
 public class prueba2 {
     
-    "JENRRY NUÑEZ"
-    Gavilanez Ricardo"
+    //"JENRRY NUÑEZ"
+   // Gavilanez Ricardo"
     //yessecarrillo
     //marcos altamirano
     //eddy lopez
