@@ -20,6 +20,7 @@ public class DesGrupo2 {
       c=1;
         JOptionPane.showMessageDialog(null,"Prueba");
         System.out.println("hola amiguitos de cora");
+        System.out.println("marcos");
         //hola
     }
 }
