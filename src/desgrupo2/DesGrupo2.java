@@ -21,6 +21,7 @@ public class DesGrupo2 {
         JOptionPane.showMessageDialog(null,"Prueba");
         System.out.println("hola amiguitos de cora");
         System.out.println("marcos");
+        System.out.println("yesse");
         //hola
     }
 }
