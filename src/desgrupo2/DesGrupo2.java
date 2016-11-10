@@ -22,6 +22,8 @@ public class DesGrupo2 {
         System.out.println("hola amiguitos de cora");
         System.out.println("marcos");
         System.out.println("yesse");
+         System.out.println("Eddy");
+                
         //hola
     }
 }
