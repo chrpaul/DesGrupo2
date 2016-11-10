@@ -23,6 +23,7 @@ public class DesGrupo2 {
         System.out.println("marcos");
         System.out.println("yesse");
          System.out.println("Eddy");
+         System.out.println("Jenrry");
                 
         //hola
     }
